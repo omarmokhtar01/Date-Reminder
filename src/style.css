@@ -1,0 +1,26 @@
+.text-style {
+  font-family: "IBM Plex Sans Arabic", sans-serif;
+  background-color: #c4dfdf;
+  height: 100vh;
+}
+.text-color {
+  color: #025464;
+}
+.box {
+  background-color: #f8f6f4;
+  border: 2px solid #3aa6b9;
+  border-radius: 12px;
+  padding: 5px;
+  box-shadow: 10px 10px #dafffb;
+  margin-bottom: 25px;
+}
+
+.img-style {
+  border-radius: 50%;
+  height: 70px;
+  width: 70px;
+}
+
+.bord-bot {
+  border-bottom: 2px solid #3aa6b9;
+}
